@@ -1,0 +1,32 @@
+.tp-caption.homeslidertitle, .homeslidertitle {
+font-size:48px;
+line-height:44px;
+font-weight:700;
+font-family:Montserrat;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+text-transform:uppercase;
+letter-spacing:-0.4px;
+}
+
+.tp-caption.homeslidertitlereg, .homeslidertitlereg {
+font-size:18px;
+line-height:24px;
+font-family:Montserrat;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.black, .black {
+color:#000;
+text-shadow:none;
+}
+
